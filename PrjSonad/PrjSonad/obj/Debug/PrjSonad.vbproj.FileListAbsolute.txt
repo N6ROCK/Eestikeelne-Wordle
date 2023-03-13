@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\bin\Debug\PrjSonad.dll
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\bin\Debug\PrjSonad.pdb
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\bin\Debug\PrjSonad.xml
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.vbproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.Resources.resources
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.vbproj.GenerateResource.cache
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.vbproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.dll
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.xml
+C:\Users\Никита\source\repos\PrjSonad\PrjSonad\obj\Debug\PrjSonad.pdb
